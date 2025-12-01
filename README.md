@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a mini e-commerce project<br>🌱 I’m currently learning Next.js
+🔭 I’m currently working on my own expense tracker web app project<br>🌱 I’m currently learning Angular & Golang
 
 
 ## 🌐 Socials:
